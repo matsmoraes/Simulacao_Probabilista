@@ -60,10 +60,5 @@ theta = 2 * np.pi * v
 x = r_correct * np.cos(theta)
 y = r_correct * np.sin(theta)
 ```
-
-## Arquivos
-* [**Relatório Matemático (PDF)**](uniforme_circulo%20(1).pdf) - Dedução completa.
-* [**Simulação (Notebook)**](uniforme_circ%20(2).ipynb) - Código e gráficos.
-
 ---
 **Autor:** Matheus de Moraes | [LinkedIn](https://www.linkedin.com/in/matheus-neves-864aa01a8/)
